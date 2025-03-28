@@ -39,3 +39,7 @@ mvn spring-boot:run
 ## Referencias
 
 - https://springdoc.org/
+
+## Feito por:
+- Isabella Gomes Menezes 
+- Ana Luiza de Paula Reis
